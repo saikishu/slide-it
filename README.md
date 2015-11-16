@@ -1,6 +1,6 @@
 # BullsEye
 
-iOS Swift game - Inspired from http://www.raywenderlich.com/
+iOS Swift game - Inspired by http://www.raywenderlich.com/
 
 Download, install & enjoy!
 
