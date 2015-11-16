@@ -1,4 +1,4 @@
-# BullsEye
+# Slide It
 
 iOS Swift game - Inspired by http://www.raywenderlich.com/
 
